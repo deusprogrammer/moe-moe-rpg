@@ -2,7 +2,7 @@
 
 ## Two games in one
 
-###Moe Moe Online mode:
+### Moe Moe Online mode:
 
 This mode plays similarly to a game like Phantasy Star Online or Diablo.  You and your moe partner(s) go into the field to do missions or scavenge for loot.  You can take up to 3 partners into the field with you at once, or you can take other online players...but the maximum is 4 players total.  You can also switch between controlling yourself and your partner.
 
